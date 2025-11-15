@@ -36,6 +36,4 @@ A simple Snake game implemented in Java using Swing.
 
 *![alt text](image.png)*
 
-## License
 
-This project is for
